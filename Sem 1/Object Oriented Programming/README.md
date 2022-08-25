@@ -19,12 +19,12 @@ administration.</td>
     <td>2</td>
     <td>A</td>
     <td>Implement a class Complex which represents the Complex
-Number data type. Implement the following operations:
+Number data type. Implement the following operations:<br>
 1. Constructor (including a default constructor which
-creates the complex number 0+0i).
-2. Overloaded operator+ to add two complex numbers.
+creates the complex number 0+0i).<br>
+2. Overloaded operator+ to add two complex numbers.<br>
 3. Overloaded operator * to multiply two complex
-number.
+number.<br>
 4. Overloaded << and >> to print and read Complex
 Numbers</td>
   </tr>
