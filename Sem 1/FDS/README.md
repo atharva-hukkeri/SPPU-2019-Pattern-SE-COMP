@@ -6,6 +6,7 @@
     <th>Group</th>
     <th>Titile of Assignment</th>
   </tr>
+  
   <tr>
     <td>1</td>
     <td>A</td>
@@ -16,9 +17,76 @@ c) Number of students who play neither cricket nor badminton<br>
 d) Number of students who play cricket and football but not badminton.<br>
 (Note- While realizing the group, duplicate entries should be avoided, Do not use SET built-in functions)</td>
   </tr>
+  
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td>2</td>
+    <td>A</td>
     <td>Mexico</td>
   </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  
+  <tr>
+    <td>4</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  
+  <tr>
+    <td>5</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  
+  <tr>
+    <td>6</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  
+  <tr>
+    <td>7</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  
+  <tr>
+    <td>8</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  
+  <tr>
+    <td>9</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  
+  <tr>
+    <td>10</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  
+  <tr>
+    <td>11</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  
+  <tr>
+    <td>13</td>
+    <td>A</td>
+    <td>Mexico</td>
+  </tr>
+  
 </table>
