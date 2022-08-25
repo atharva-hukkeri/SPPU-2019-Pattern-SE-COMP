@@ -3,7 +3,6 @@
 <table style="width:100%">
   <tr>
     <th>Sr. No.</th>
-    <th>Group</th>
     <th>Titile of Assignment</th>
   </tr>
   
