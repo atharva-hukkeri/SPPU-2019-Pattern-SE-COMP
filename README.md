@@ -8,4 +8,4 @@
 📌Computer Graphics <br>
 
 ### `Sem2`
-📌Design and Analysis of Algorithms
+📌Data Strcutures and Algorithms
