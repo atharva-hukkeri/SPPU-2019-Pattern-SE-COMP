@@ -19,54 +19,31 @@ telephone numbers (Python)</td>
   <tr>
     <td>2</td>
     <td>A</td>
-    <td>Write a Python program to store marks scored in subject
-“Fundamental of Data Structure” by N students in the class. Write
-functions to compute following:<br>
-a) The average score of class<br>
-b) Highest score and lowest score of class<br>
-c) Count of students who were absent for the test<br>
-d) Display mark with highest frequency</td>
+    <td>Implement all the functions of a dictionary (ADT) using hashing and handle collisions
+using chaining with / without replacement.<br>
+Data: Set of (key, value) pairs, Keys are mapped to values, Keys must be comparable, Keys
+must be unique Standard Operations: Insert(key, value), Find(key), Delete(key) (python)</td>
   </tr>
   
   <tr>
-    <td>3(A)</td>
+    <td>3</td>
     <td>A</td>
-    <td>Write a python Program for magic square. A magic square is an n * n
-matrix of the integers 1 to n2 such that the sum of each row, column,
-and diagonal is the same. (Please refer the example from syllabus
-copy).</td>
-  </tr>
-  
-  <td>3(B)</td>
-    <td>A</td>
-    <td>Write a Python program to compute following operations on
-String:<br>
-a) To display word with the longest length<br>
-b) To determines the frequency of occurrence of particular
-character in the string<br>
-c) To check whether given string is palindrome or not<br>
-d) To display index of first appearance of the substring<br>
-e) To count the occurrences of each word in a given
-string</td>
-  </tr>
-  
-  <td>3(C)</td>
-    <td>A</td>
-    <td>Write a python program to compute following computation on
-matrix:<br>
-a) Addition of two matrices<br>
-b) Subtraction of two matrices<br>
-c) Multiplication of two matrices<br>
-d) Transpose of a matrix</td>
+    <td>A book consists of chapters, chapters consist of sections and sections consist of
+subsections. Construct a tree and print the nodes. Find the time and space requirements
+of your method.</td>
   </tr>
   
   <tr>
     <td>4</td>
     <td>B</td>
-    <td>Write a python program to store second year percentage of students
-in array. Write function for sorting array of floating point numbers in
-ascending order using<br>
-a) Insertion sort b) Shell Sort and display top five scores.</td>
+    <td>Beginning with an empty binary search tree, Construct binary search tree by inserting the
+values in the order given. After constructing a binary tree - <br>
+i. Insert new node <br>
+ii. Find number of nodes in longest path from root <br>
+iii. Minimum data value found in the tree <br>
+iv. Change a tree so that the roles of the left and right pointers are swapped at every
+node <br>
+v. Search a value</td>
   </tr>
   
   <tr>
