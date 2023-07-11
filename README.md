@@ -2,6 +2,6 @@
 
 ## Subjects
 
-### Sem 1
+### `Sem 1`
 
-### Sem2
+### `Sem2`
