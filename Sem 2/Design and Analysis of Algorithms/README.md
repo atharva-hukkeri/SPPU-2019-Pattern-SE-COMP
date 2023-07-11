@@ -49,46 +49,36 @@ v. Search a value</td>
   <tr>
     <td>5</td>
     <td>B</td>
-    <td>Write a python program to store first year percentage of students in
-array. Write function for sorting array of floating point numbers in
-ascending order using<br>
-a) Selection Sort b) Bubble sort and display top five scores.</td>
+    <td>Construct an expression tree from the given prefix expression eg. +--a*bc/def and
+traverse it using postorder traversal(non recursive) and then delete the entire tree.</td>
   </tr>
   
   <tr>
     <td>6</td>
-    <td>B</td>
-    <td>Write a python program to store first year percentage of students in
-array. Write function for sorting array of floating point numbers in
-ascending order using quick sort and display top five scores.</td>
+    <td>C</td>
+    <td>There are flight paths between cities. If there is a flight between city A and city B then
+there is an edge between the cities. The cost of the edge can be the time that flight take
+to reach city B from A, or the amount of fuel used for the journey. Represent this as a
+graph. The node can be represented by airport name or name of the city. Use adjacency
+list representation of the graph or use adjacency matrix representation of the graph.
+Check whether the graph is connected or not. Justify the storage representation used.</td>
   </tr>
   
   <tr>
     <td>7</td>
     <td>C</td>
-    <td>Department of Computer Engineering has student's club named
-'Pinnacle Club'. Students of second, third and final year of
-department can be granted membership on request. Similarly one
-may cancel the membership of club. First node is reserved for
-president of club and last node is reserved for secretary of club. Write
-C++ program to maintain club member‘s information using singly
-linked list. Store student PRN and Name. Write functions to:<br>
-a) Add and delete the members as well as president or even secretary.<br>
-b) Compute total number of members of club<br>
-c) Display members<br>
-d) Two linked lists exists for two divisions. Concatenate two lists.</td>
+    <td>You have a business with several offices; you want to lease phone lines to connect them
+up with each other; and the phone company charges different amounts of money to
+connect different pairs of cities. You want a set of lines that connects all your offices with
+a minimum total cost. Solve the problem by suggesting appropriate data structures.</td>
   </tr>
   
   <tr>
     <td>8</td>
-    <td>C</td>
-    <td>Second year Computer Engineering class, set A of students like
-Vanilla Ice-cream and set B of students like butterscotch ice-cream.
-Write C++ program to store two sets using linked list. compute and
-display-<br>
-a) Set of students who like both vanilla and butterscotch<br>
-b) Set of students who like either vanilla or butterscotch or not both<br>
-c)Number of students who like neither vanilla nor butterscotch</td>
+    <td>D</td>
+    <td>Given sequence k = k1 &lt;k2 &lt; ... &lt;kn of n sorted keys, with a search probability pi for each
+key ki . Build the Binary search tree that has the least search cost given the access
+probability for each key?</td>
   </tr>
   
   <tr>
